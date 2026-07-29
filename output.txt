@@ -1,0 +1,49 @@
+Dataset shape: (1000, 17)
+Missing values: 0
+
+--- Key Numbers ---
+Total Revenue: 139399439.65
+Total Orders: 1000
+Unique Customers: 947
+Average Order Value: 139399.44
+
+--- Revenue by Category ---
+Category
+Electronics    50778581.70
+Education      25031689.40
+Grocery        22231711.28
+Furniture      21521561.48
+Fashion        19835895.79
+Name: Total_Sales, dtype: float64
+
+--- Top 5 Products ---
+Product
+Laptop    25443008.51
+Mobile    25335573.19
+Book      25031689.40
+Rice      22231711.28
+Chair     21521561.48
+Name: Total_Sales, dtype: float64
+
+--- Top 5 Cities ---
+City
+Patna        19285966.89
+Kolkata      18884349.57
+Bengaluru    18773574.32
+Mumbai       18757050.17
+Hyderabad    17166766.87
+Name: Total_Sales, dtype: float64
+
+--- Revenue by Age Group ---
+Age_Group
+36-45    31533245.71
+26-35    29632336.96
+46-55    28216508.63
+56+      27733251.41
+18-25    22284096.94
+Name: Total_Sales, dtype: float64
+
+Best month: March - 13059899.94
+Weakest month: September - 9179896.29
+
+Dashboard saved to assets/capstone_dashboard.png
