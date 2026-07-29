@@ -1,16 +1,3 @@
-# capstone_analysis.py
-# Task 5 - Capstone Integration & Portfolio Finalization
-#
-# What this script does:
-# 1. Loads the cleaned sales dataset
-# 2. Calculates the key numbers (revenue, orders, customers, etc.)
-# 3. Shows top categories, products, cities, and age groups
-# 4. Builds one summary dashboard image with 4 charts
-#
-# How to run:
-#   pip install pandas matplotlib openpyxl
-#   python capstone_analysis.py
-
 import pandas as pd
 import matplotlib.pyplot as plt
 
